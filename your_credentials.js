@@ -8,7 +8,7 @@ function getCredentials() {
 
 const credentials = {
   // Mongo Paths + URI
-  MONGODB_URI: "mongodb+srv://mern:qazxsw@cluster0.mxl1u.mongodb.net/?retryWrites=true&w=majority"
+  MONGODB_URI: <enter your mongo atlas connection URI here>
 };
 
 /*
